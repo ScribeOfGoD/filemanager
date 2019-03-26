@@ -5,7 +5,7 @@ A good solution for managing files and folders for developers who can't access s
 ![PHP File Manager](https://raw.github.com/alexantr/filemanager/master/phpfm.png)
 
 **WARNING! Do not use this script as regular file manager in public area.
-After all actions you must delete thid script from server.**
+After all actions you must delete this script from server.**
 
 ## Requirements
 
